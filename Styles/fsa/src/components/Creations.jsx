@@ -2,7 +2,7 @@ import React from 'react'
 import Droplet from './images/droplet.jpg';
 import Fuji from './images/fuji.jpg';
 import lamp from './images/lamp.jpg';
-import minimal from './images/minimal.jpg';
+import minimal from './images/minimalismo.jpg';
 import rucksack from './images/rucksack.jpg';
 import sandunes from './images/sanddunes.jpg';
 import shutterbug from './images/shutterbug.jpg';

@@ -6,13 +6,9 @@
   background-size: cover;
   background-position-y: center;
   position: relative;
-}
-.background-1::before{
   background-image: url(./components/images/header-bg-3000.jpg);
-  content: "";
-  opacity: calc(0.4);
-  position: absolute;
 }
+
 .Navbar-1{
   width: 100%;
   height: 7vh;
@@ -235,7 +231,7 @@ margin-top: 3vh;
   margin-bottom: 17.1vh;
 }
 .body-7{
-  background-image: url(./components/images/testimonials.jpg);
+  background-image: url(./components/images/testimonials-bg-3000.jpg);
   width: 100%;
   height: 81.2vh;
   background-size: cover;

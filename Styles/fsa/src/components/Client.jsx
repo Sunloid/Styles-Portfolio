@@ -1,6 +1,6 @@
 import React from 'react'
-import Sundar from "./images/sundar.jpg"
-import Tim from './images/tim.jpg'
+import Sundar from "./images/user-02.jpg"
+import Tim from './images/user-03.jpg'
 
 function Client() {
   return (

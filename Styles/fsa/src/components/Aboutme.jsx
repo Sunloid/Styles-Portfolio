@@ -1,5 +1,5 @@
 import React from 'react'
-import user from './images/user.jpg'
+import user from './images/user-06.jpg'
 function Aboutme() {
   return (
     <>
